@@ -5,7 +5,7 @@ using System.Text.Json;
 
 public static class RomanTypingParserJp
 {
-  private static readonly string dictionaryJsonFilePath = @"D:/Arthur-Lugh/develop/RomanTypingParserJp/JsonData/romanTypingParseDictionary.json";
+  private static readonly string dictionaryJsonFilePath = @"D:/Arthur-Lugh/develop/RomanTypingParserJapanese/JsonData/romanTypingParseDictionary.json";
   private static readonly Dictionary<string, string[]> mappingDict = new();
 
   /// <summary>
