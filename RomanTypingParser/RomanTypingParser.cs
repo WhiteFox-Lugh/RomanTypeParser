@@ -5,7 +5,7 @@ using System.Text.Json;
 
 public static class RomanTypingParserJp
 {
-  private static readonly string dictionaryJsonFilePath = @"./JsonData/romanTypingParseDictionary.json";
+  private static readonly string dictionaryJsonFilePath = @"D:/Arthur-Lugh/develop/RomanTypingParserJp/JsonData/romanTypingParseDictionary.json";
   private static readonly Dictionary<string, string[]> mappingDict = new();
 
   /// <summary>
@@ -15,6 +15,7 @@ public static class RomanTypingParserJp
   /// </summary>
   public static void ReadJsonFile()
   {
+    if (mappingDict.Count != 0) { return; }
     var sr = new StreamReader(dictionaryJsonFilePath, Encoding.GetEncoding("utf-8"));
     var jsonStr = sr.ReadToEnd();
     sr.Close();
