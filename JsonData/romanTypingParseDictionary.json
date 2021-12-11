@@ -1,615 +1,367 @@
 [
   {
     "Pattern": "あ",
-    "TypePattern": [
-      "a"
-    ]
+    "TypePattern": ["a"]
   },
   {
     "Pattern": "い",
-    "TypePattern": [
-      "i",
-      "yi"
-    ]
+    "TypePattern": ["i", "yi"]
   },
   {
     "Pattern": "う",
-    "TypePattern": [
-      "u",
-      "wu",
-      "whu"
-    ]
+    "TypePattern": ["u", "wu", "whu"]
   },
   {
     "Pattern": "え",
-    "TypePattern": [
-      "e"
-    ]
+    "TypePattern": ["e"]
   },
   {
     "Pattern": "お",
-    "TypePattern": [
-      "o"
-    ]
+    "TypePattern": ["o"]
   },
   {
     "Pattern": "か",
-    "TypePattern": [
-      "ka",
-      "ca"
-    ]
+    "TypePattern": ["ka", "ca"]
   },
   {
     "Pattern": "き",
-    "TypePattern": [
-      "ki"
-    ]
+    "TypePattern": ["ki"]
   },
   {
     "Pattern": "く",
-    "TypePattern": [
-      "ku",
-      "cu",
-      "qu"
-    ]
+    "TypePattern": ["ku", "cu", "qu"]
   },
   {
     "Pattern": "け",
-    "TypePattern": [
-      "ke"
-    ]
+    "TypePattern": ["ke"]
   },
   {
     "Pattern": "こ",
-    "TypePattern": [
-      "ko",
-      "co"
-    ]
+    "TypePattern": ["ko", "co"]
   },
   {
     "Pattern": "さ",
-    "TypePattern": [
-      "sa"
-    ]
+    "TypePattern": ["sa"]
   },
   {
     "Pattern": "し",
-    "TypePattern": [
-      "si",
-      "shi",
-      "ci"
-    ]
+    "TypePattern": ["si", "shi", "ci"]
   },
   {
     "Pattern": "す",
-    "TypePattern": [
-      "su"
-    ]
+    "TypePattern": ["su"]
   },
   {
     "Pattern": "せ",
-    "TypePattern": [
-      "se",
-      "ce"
-    ]
+    "TypePattern": ["se", "ce"]
   },
   {
     "Pattern": "そ",
-    "TypePattern": [
-      "so"
-    ]
+    "TypePattern": ["so"]
   },
   {
     "Pattern": "た",
-    "TypePattern": [
-      "ta"
-    ]
+    "TypePattern": ["ta"]
   },
   {
     "Pattern": "ち",
-    "TypePattern": [
-      "ti",
-      "chi"
-    ]
+    "TypePattern": ["ti", "chi"]
   },
   {
     "Pattern": "つ",
-    "TypePattern": [
-      "tu",
-      "tsu"
-    ]
+    "TypePattern": ["tu", "tsu"]
   },
   {
     "Pattern": "て",
-    "TypePattern": [
-      "te"
-    ]
+    "TypePattern": ["te"]
   },
   {
     "Pattern": "と",
-    "TypePattern": [
-      "to"
-    ]
+    "TypePattern": ["to"]
   },
   {
     "Pattern": "な",
-    "TypePattern": [
-      "na"
-    ]
+    "TypePattern": ["na"]
   },
   {
     "Pattern": "に",
-    "TypePattern": [
-      "ni"
-    ]
+    "TypePattern": ["ni"]
   },
   {
     "Pattern": "ぬ",
-    "TypePattern": [
-      "nu"
-    ]
+    "TypePattern": ["nu"]
   },
   {
     "Pattern": "ね",
-    "TypePattern": [
-      "ne"
-    ]
+    "TypePattern": ["ne"]
   },
   {
     "Pattern": "の",
-    "TypePattern": [
-      "no"
-    ]
+    "TypePattern": ["no"]
   },
   {
     "Pattern": "は",
-    "TypePattern": [
-      "ha"
-    ]
+    "TypePattern": ["ha"]
   },
   {
     "Pattern": "ひ",
-    "TypePattern": [
-      "hi"
-    ]
+    "TypePattern": ["hi"]
   },
   {
     "Pattern": "ふ",
-    "TypePattern": [
-      "fu",
-      "hu"
-    ]
+    "TypePattern": ["fu", "hu"]
   },
   {
     "Pattern": "へ",
-    "TypePattern": [
-      "he"
-    ]
+    "TypePattern": ["he"]
   },
   {
     "Pattern": "ほ",
-    "TypePattern": [
-      "ho"
-    ]
+    "TypePattern": ["ho"]
   },
   {
     "Pattern": "ま",
-    "TypePattern": [
-      "ma"
-    ]
+    "TypePattern": ["ma"]
   },
   {
     "Pattern": "み",
-    "TypePattern": [
-      "mi"
-    ]
+    "TypePattern": ["mi"]
   },
   {
     "Pattern": "む",
-    "TypePattern": [
-      "mu"
-    ]
+    "TypePattern": ["mu"]
   },
   {
     "Pattern": "め",
-    "TypePattern": [
-      "me"
-    ]
+    "TypePattern": ["me"]
   },
   {
     "Pattern": "も",
-    "TypePattern": [
-      "mo"
-    ]
+    "TypePattern": ["mo"]
   },
   {
     "Pattern": "や",
-    "TypePattern": [
-      "ya"
-    ]
+    "TypePattern": ["ya"]
   },
   {
     "Pattern": "ゆ",
-    "TypePattern": [
-      "yu"
-    ]
+    "TypePattern": ["yu"]
   },
   {
     "Pattern": "よ",
-    "TypePattern": [
-      "yo"
-    ]
+    "TypePattern": ["yo"]
   },
   {
     "Pattern": "ら",
-    "TypePattern": [
-      "ra"
-    ]
+    "TypePattern": ["ra"]
   },
   {
     "Pattern": "り",
-    "TypePattern": [
-      "ri"
-    ]
+    "TypePattern": ["ri"]
   },
   {
     "Pattern": "る",
-    "TypePattern": [
-      "ru"
-    ]
+    "TypePattern": ["ru"]
   },
   {
     "Pattern": "れ",
-    "TypePattern": [
-      "re"
-    ]
+    "TypePattern": ["re"]
   },
   {
     "Pattern": "ろ",
-    "TypePattern": [
-      "ro"
-    ]
+    "TypePattern": ["ro"]
   },
   {
     "Pattern": "わ",
-    "TypePattern": [
-      "wa"
-    ]
+    "TypePattern": ["wa"]
   },
   {
     "Pattern": "を",
-    "TypePattern": [
-      "wo"
-    ]
+    "TypePattern": ["wo"]
   },
   {
     "Pattern": "ん",
-    "TypePattern": [
-      "n",
-      "nn",
-      "xn"
-    ]
+    "TypePattern": ["n", "nn", "xn"]
   },
   {
     "Pattern": "が",
-    "TypePattern": [
-      "ga"
-    ]
+    "TypePattern": ["ga"]
   },
   {
     "Pattern": "ぎ",
-    "TypePattern": [
-      "gi"
-    ]
+    "TypePattern": ["gi"]
   },
   {
     "Pattern": "ぐ",
-    "TypePattern": [
-      "gu"
-    ]
+    "TypePattern": ["gu"]
   },
   {
     "Pattern": "げ",
-    "TypePattern": [
-      "ge"
-    ]
+    "TypePattern": ["ge"]
   },
   {
     "Pattern": "ご",
-    "TypePattern": [
-      "go"
-    ]
+    "TypePattern": ["go"]
   },
   {
     "Pattern": "ざ",
-    "TypePattern": [
-      "za"
-    ]
+    "TypePattern": ["za"]
   },
   {
     "Pattern": "じ",
-    "TypePattern": [
-      "ji",
-      "zi"
-    ]
+    "TypePattern": ["ji", "zi"]
   },
   {
     "Pattern": "ず",
-    "TypePattern": [
-      "zu"
-    ]
+    "TypePattern": ["zu"]
   },
   {
     "Pattern": "ぜ",
-    "TypePattern": [
-      "ze"
-    ]
+    "TypePattern": ["ze"]
   },
   {
     "Pattern": "ぞ",
-    "TypePattern": [
-      "zo"
-    ]
+    "TypePattern": ["zo"]
   },
   {
     "Pattern": "だ",
-    "TypePattern": [
-      "da"
-    ]
+    "TypePattern": ["da"]
   },
   {
     "Pattern": "ぢ",
-    "TypePattern": [
-      "di"
-    ]
+    "TypePattern": ["di"]
   },
   {
     "Pattern": "づ",
-    "TypePattern": [
-      "du"
-    ]
+    "TypePattern": ["du"]
   },
   {
     "Pattern": "で",
-    "TypePattern": [
-      "de"
-    ]
+    "TypePattern": ["de"]
   },
   {
     "Pattern": "ど",
-    "TypePattern": [
-      "do"
-    ]
+    "TypePattern": ["do"]
   },
   {
     "Pattern": "ば",
-    "TypePattern": [
-      "ba"
-    ]
+    "TypePattern": ["ba"]
   },
   {
     "Pattern": "び",
-    "TypePattern": [
-      "bi"
-    ]
+    "TypePattern": ["bi"]
   },
   {
     "Pattern": "ぶ",
-    "TypePattern": [
-      "bu"
-    ]
+    "TypePattern": ["bu"]
   },
   {
     "Pattern": "べ",
-    "TypePattern": [
-      "be"
-    ]
+    "TypePattern": ["be"]
   },
   {
     "Pattern": "ぼ",
-    "TypePattern": [
-      "bo"
-    ]
+    "TypePattern": ["bo"]
   },
   {
     "Pattern": "ぱ",
-    "TypePattern": [
-      "pa"
-    ]
+    "TypePattern": ["pa"]
   },
   {
     "Pattern": "ぴ",
-    "TypePattern": [
-      "pi"
-    ]
+    "TypePattern": ["pi"]
   },
   {
     "Pattern": "ぷ",
-    "TypePattern": [
-      "pu"
-    ]
+    "TypePattern": ["pu"]
   },
   {
     "Pattern": "ぺ",
-    "TypePattern": [
-      "pe"
-    ]
+    "TypePattern": ["pe"]
   },
   {
     "Pattern": "ぽ",
-    "TypePattern": [
-      "po"
-    ]
+    "TypePattern": ["po"]
   },
   {
     "Pattern": "ぁ",
-    "TypePattern": [
-      "la",
-      "xa"
-    ]
+    "TypePattern": ["la", "xa"]
   },
   {
     "Pattern": "ぃ",
-    "TypePattern": [
-      "li",
-      "xi",
-      "lyi",
-      "xyi"
-    ]
+    "TypePattern": ["li", "xi", "lyi", "xyi"]
   },
   {
     "Pattern": "ぅ",
-    "TypePattern": [
-      "lu",
-      "xu"
-    ]
+    "TypePattern": ["lu", "xu"]
   },
   {
     "Pattern": "ぇ",
-    "TypePattern": [
-      "le",
-      "xe",
-      "lye",
-      "xye"
-    ]
+    "TypePattern": ["le", "xe", "lye", "xye"]
   },
   {
     "Pattern": "ぉ",
-    "TypePattern": [
-      "lo",
-      "xo"
-    ]
+    "TypePattern": ["lo", "xo"]
   },
   {
     "Pattern": "ゃ",
-    "TypePattern": [
-      "lya",
-      "xya"
-    ]
+    "TypePattern": ["lya", "xya"]
   },
   {
     "Pattern": "ゅ",
-    "TypePattern": [
-      "lyu",
-      "xyu"
-    ]
+    "TypePattern": ["lyu", "xyu"]
   },
   {
     "Pattern": "ょ",
-    "TypePattern": [
-      "lyo",
-      "xyo"
-    ]
+    "TypePattern": ["lyo", "xyo"]
   },
   {
     "Pattern": "っ",
-    "TypePattern": [
-      "ltu",
-      "ltsu",
-      "xtu",
-      "xtsu"
-    ]
+    "TypePattern": ["ltu", "ltsu", "xtu", "xtsu"]
   },
   {
     "Pattern": "きゃ",
-    "TypePattern": [
-      "kya",
-      "kilya",
-      "kixya"
-    ]
+    "TypePattern": ["kya", "kilya", "kixya"]
   },
   {
     "Pattern": "きぃ",
-    "TypePattern": [
-      "kyi",
-      "kili",
-      "kilyi",
-      "kixi",
-      "kixyi"
-    ]
+    "TypePattern": ["kyi", "kili", "kilyi", "kixi", "kixyi"]
   },
   {
     "Pattern": "きゅ",
-    "TypePattern": [
-      "kyu",
-      "kilyu",
-      "kixyu"
-    ]
+    "TypePattern": ["kyu", "kilyu", "kixyu"]
   },
   {
     "Pattern": "きぇ",
-    "TypePattern": [
-      "kye",
-      "kile",
-      "kilye",
-      "kixe",
-      "kixye"
-    ]
+    "TypePattern": ["kye", "kile", "kilye", "kixe", "kixye"]
   },
   {
     "Pattern": "きょ",
-    "TypePattern": [
-      "kyo",
-      "kilyo",
-      "kixyo"
-    ]
+    "TypePattern": ["kyo", "kilyo", "kixyo"]
   },
   {
     "Pattern": "ぎゃ",
-    "TypePattern": [
-      "gya",
-      "gilya",
-      "gixya"
-    ]
+    "TypePattern": ["gya", "gilya", "gixya"]
   },
   {
     "Pattern": "ぎぃ",
-    "TypePattern": [
-      "gyi",
-      "gili",
-      "gilyi",
-      "gixi",
-      "gixyi"
-    ]
+    "TypePattern": ["gyi", "gili", "gilyi", "gixi", "gixyi"]
   },
   {
     "Pattern": "ぎゅ",
-    "TypePattern": [
-      "gyu",
-      "gilyu",
-      "gixyu"
-    ]
+    "TypePattern": ["gyu", "gilyu", "gixyu"]
   },
   {
     "Pattern": "ぎぇ",
-    "TypePattern": [
-      "gye",
-      "gile",
-      "gilye",
-      "gixe",
-      "gixye"
-    ]
+    "TypePattern": ["gye", "gile", "gilye", "gixe", "gixye"]
   },
   {
     "Pattern": "ぎょ",
-    "TypePattern": [
-      "gyo",
-      "gilyo",
-      "gixyo"
-    ]
+    "TypePattern": ["gyo", "gilyo", "gixyo"]
   },
   {
     "Pattern": "くぁ",
-    "TypePattern": [
-      "qa",
-      "kwa",
-      "kula",
-      "kuxa",
-      "cula",
-      "cuxa",
-      "qula",
-      "quxa"
-    ]
+    "TypePattern": ["qa", "kwa", "kula", "kuxa", "cula", "cuxa", "qula", "quxa"]
   },
   {
     "Pattern": "くぃ",
@@ -632,15 +384,7 @@
   },
   {
     "Pattern": "くぅ",
-    "TypePattern": [
-      "qwu",
-      "kulu",
-      "kuxu",
-      "culu",
-      "cuxu",
-      "qulu",
-      "quxu"
-    ]
+    "TypePattern": ["qwu", "kulu", "kuxu", "culu", "cuxu", "qulu", "quxu"]
   },
   {
     "Pattern": "くぇ",
@@ -663,60 +407,27 @@
   },
   {
     "Pattern": "くぉ",
-    "TypePattern": [
-      "qo",
-      "qwo",
-      "kulo",
-      "kuxo",
-      "culo",
-      "cuxo",
-      "qulo",
-      "quxo"
-    ]
+    "TypePattern": ["qo", "qwo", "kulo", "kuxo", "culo", "cuxo", "qulo", "quxo"]
   },
   {
     "Pattern": "ぐぁ",
-    "TypePattern": [
-      "gwa",
-      "gula",
-      "guxa"
-    ]
+    "TypePattern": ["gwa", "gula", "guxa"]
   },
   {
     "Pattern": "ぐぃ",
-    "TypePattern": [
-      "gwi",
-      "guli",
-      "gulyi",
-      "guxi",
-      "guxyi"
-    ]
+    "TypePattern": ["gwi", "guli", "gulyi", "guxi", "guxyi"]
   },
   {
     "Pattern": "ぐぅ",
-    "TypePattern": [
-      "gwu",
-      "gulu",
-      "guxu"
-    ]
+    "TypePattern": ["gwu", "gulu", "guxu"]
   },
   {
     "Pattern": "ぐぇ",
-    "TypePattern": [
-      "gwe",
-      "gule",
-      "guxe",
-      "gulye",
-      "guxye"
-    ]
+    "TypePattern": ["gwe", "gule", "guxe", "gulye", "guxye"]
   },
   {
     "Pattern": "ぐぉ",
-    "TypePattern": [
-      "gwo",
-      "gulo",
-      "guxo"
-    ]
+    "TypePattern": ["gwo", "gulo", "guxo"]
   },
   {
     "Pattern": "しゃ",
@@ -796,15 +507,7 @@
   },
   {
     "Pattern": "じゃ",
-    "TypePattern": [
-      "ja",
-      "jya",
-      "zya",
-      "jilya",
-      "jixya",
-      "zilya",
-      "zixya"
-    ]
+    "TypePattern": ["ja", "jya", "zya", "jilya", "jixya", "zilya", "zixya"]
   },
   {
     "Pattern": "じぃ",
@@ -823,15 +526,7 @@
   },
   {
     "Pattern": "じゅ",
-    "TypePattern": [
-      "ju",
-      "jyu",
-      "zyu",
-      "jilyu",
-      "jixyu",
-      "zilyu",
-      "zixyu"
-    ]
+    "TypePattern": ["ju", "jyu", "zyu", "jilyu", "jixyu", "zilyu", "zixyu"]
   },
   {
     "Pattern": "じぇ",
@@ -851,71 +546,31 @@
   },
   {
     "Pattern": "じょ",
-    "TypePattern": [
-      "jo",
-      "jyo",
-      "zyo",
-      "jilyo",
-      "jixyo",
-      "zilyo",
-      "zixyo"
-    ]
+    "TypePattern": ["jo", "jyo", "zyo", "jilyo", "jixyo", "zilyo", "zixyo"]
   },
   {
     "Pattern": "すぁ",
-    "TypePattern": [
-      "swa",
-      "sula",
-      "suxa"
-    ]
+    "TypePattern": ["swa", "sula", "suxa"]
   },
   {
     "Pattern": "すぃ",
-    "TypePattern": [
-      "swi",
-      "suli",
-      "sulyi",
-      "suxi",
-      "suxyi"
-    ]
+    "TypePattern": ["swi", "suli", "sulyi", "suxi", "suxyi"]
   },
   {
     "Pattern": "すぅ",
-    "TypePattern": [
-      "swu",
-      "sulu",
-      "suxu"
-    ]
+    "TypePattern": ["swu", "sulu", "suxu"]
   },
   {
     "Pattern": "すぇ",
-    "TypePattern": [
-      "swe",
-      "sule",
-      "suxe",
-      "sulye",
-      "suxye"
-    ]
+    "TypePattern": ["swe", "sule", "suxe", "sulye", "suxye"]
   },
   {
     "Pattern": "すぉ",
-    "TypePattern": [
-      "swo",
-      "sulo",
-      "suxo"
-    ]
+    "TypePattern": ["swo", "sulo", "suxo"]
   },
   {
     "Pattern": "ちゃ",
-    "TypePattern": [
-      "tya",
-      "cha",
-      "cya",
-      "tilya",
-      "tixya",
-      "chilya",
-      "chixya"
-    ]
+    "TypePattern": ["tya", "cha", "cya", "tilya", "tixya", "chilya", "chixya"]
   },
   {
     "Pattern": "ちぃ",
@@ -934,15 +589,7 @@
   },
   {
     "Pattern": "ちゅ",
-    "TypePattern": [
-      "tyu",
-      "chu",
-      "cyu",
-      "tilyu",
-      "tixyu",
-      "chilyu",
-      "chixyu"
-    ]
+    "TypePattern": ["tyu", "chu", "cyu", "tilyu", "tixyu", "chilyu", "chixyu"]
   },
   {
     "Pattern": "ちぇ",
@@ -962,59 +609,31 @@
   },
   {
     "Pattern": "ちょ",
-    "TypePattern": [
-      "tyo",
-      "cho",
-      "cyo",
-      "tilyo",
-      "tixyo",
-      "chilyo",
-      "chixyo"
-    ]
+    "TypePattern": ["tyo", "cho", "cyo", "tilyo", "tixyo", "chilyo", "chixyo"]
   },
   {
     "Pattern": "ぢゃ",
-    "TypePattern": [
-      "dya",
-      "dilya",
-      "dixya"
-    ]
+    "TypePattern": ["dya", "dilya", "dixya"]
+  },
+  {
+    "Pattern": "ぢぃ",
+    "TypePattern": ["dyi", "dilyi", "dixyi"]
   },
   {
     "Pattern": "ぢゅ",
-    "TypePattern": [
-      "dyu",
-      "dilyu",
-      "dixyu"
-    ]
+    "TypePattern": ["dyu", "dilyu", "dixyu"]
   },
   {
     "Pattern": "ぢぇ",
-    "TypePattern": [
-      "dye",
-      "dile",
-      "dixe",
-      "dilye",
-      "dixye"
-    ]
+    "TypePattern": ["dye", "dile", "dixe", "dilye", "dixye"]
   },
   {
     "Pattern": "ぢょ",
-    "TypePattern": [
-      "dyo",
-      "dilyo",
-      "dixyo"
-    ]
+    "TypePattern": ["dyo", "dilyo", "dixyo"]
   },
   {
     "Pattern": "つぁ",
-    "TypePattern": [
-      "tsa",
-      "tula",
-      "tuxa",
-      "tsula",
-      "tsuxa"
-    ]
+    "TypePattern": ["tsa", "tula", "tuxa", "tsula", "tsuxa"]
   },
   {
     "Pattern": "つぃ",
@@ -1046,375 +665,171 @@
   },
   {
     "Pattern": "つぉ",
-    "TypePattern": [
-      "tso",
-      "tulo",
-      "tuxo",
-      "tsulo",
-      "tsuxo"
-    ]
+    "TypePattern": ["tso", "tulo", "tuxo", "tsulo", "tsuxo"]
   },
   {
     "Pattern": "てゃ",
-    "TypePattern": [
-      "tha",
-      "telya",
-      "texya"
-    ]
+    "TypePattern": ["tha", "telya", "texya"]
   },
   {
     "Pattern": "てぃ",
-    "TypePattern": [
-      "thi",
-      "teli",
-      "texi",
-      "telyi",
-      "texyi"
-    ]
+    "TypePattern": ["thi", "teli", "texi", "telyi", "texyi"]
   },
   {
     "Pattern": "てゅ",
-    "TypePattern": [
-      "thu",
-      "telyu",
-      "texyu"
-    ]
+    "TypePattern": ["thu", "telyu", "texyu"]
   },
   {
     "Pattern": "てぇ",
-    "TypePattern": [
-      "the",
-      "tele",
-      "texe",
-      "telye",
-      "texye"
-    ]
+    "TypePattern": ["the", "tele", "texe", "telye", "texye"]
   },
   {
     "Pattern": "てょ",
-    "TypePattern": [
-      "tho",
-      "telyo",
-      "texyo"
-    ]
+    "TypePattern": ["tho", "telyo", "texyo"]
   },
   {
     "Pattern": "でゃ",
-    "TypePattern": [
-      "dha",
-      "delya",
-      "dexya"
-    ]
+    "TypePattern": ["dha", "delya", "dexya"]
   },
   {
     "Pattern": "でぃ",
-    "TypePattern": [
-      "dhi",
-      "deli",
-      "dexi",
-      "delyi",
-      "dexyi"
-    ]
+    "TypePattern": ["dhi", "deli", "dexi", "delyi", "dexyi"]
   },
   {
     "Pattern": "でゅ",
-    "TypePattern": [
-      "dhu",
-      "delyu",
-      "dexyu"
-    ]
+    "TypePattern": ["dhu", "delyu", "dexyu"]
   },
   {
     "Pattern": "でぇ",
-    "TypePattern": [
-      "dhe",
-      "dele",
-      "dexe",
-      "delye",
-      "dexye"
-    ]
+    "TypePattern": ["dhe", "dele", "dexe", "delye", "dexye"]
   },
   {
     "Pattern": "でょ",
-    "TypePattern": [
-      "dho",
-      "delyo",
-      "dexyo"
-    ]
+    "TypePattern": ["dho", "delyo", "dexyo"]
   },
   {
     "Pattern": "とぁ",
-    "TypePattern": [
-      "twa",
-      "tola",
-      "toxa"
-    ]
+    "TypePattern": ["twa", "tola", "toxa"]
   },
   {
     "Pattern": "とぃ",
-    "TypePattern": [
-      "twi",
-      "toli",
-      "toxi",
-      "tolyi",
-      "toxyi"
-    ]
+    "TypePattern": ["twi", "toli", "toxi", "tolyi", "toxyi"]
   },
   {
     "Pattern": "とぅ",
-    "TypePattern": [
-      "twu",
-      "tolu",
-      "toxu"
-    ]
+    "TypePattern": ["twu", "tolu", "toxu"]
   },
   {
     "Pattern": "とぇ",
-    "TypePattern": [
-      "twe",
-      "tole",
-      "toxe",
-      "tolye",
-      "toxye"
-    ]
+    "TypePattern": ["twe", "tole", "toxe", "tolye", "toxye"]
   },
   {
     "Pattern": "とぉ",
-    "TypePattern": [
-      "two",
-      "tolo",
-      "toxo"
-    ]
+    "TypePattern": ["two", "tolo", "toxo"]
   },
   {
     "Pattern": "どぁ",
-    "TypePattern": [
-      "dwa",
-      "dola",
-      "doxa"
-    ]
+    "TypePattern": ["dwa", "dola", "doxa"]
   },
   {
     "Pattern": "どぃ",
-    "TypePattern": [
-      "dwi",
-      "doli",
-      "doxi",
-      "dolyi",
-      "doxyi"
-    ]
+    "TypePattern": ["dwi", "doli", "doxi", "dolyi", "doxyi"]
   },
   {
     "Pattern": "どぅ",
-    "TypePattern": [
-      "dwu",
-      "dolu",
-      "doxu"
-    ]
+    "TypePattern": ["dwu", "dolu", "doxu"]
   },
   {
     "Pattern": "どぇ",
-    "TypePattern": [
-      "dwe",
-      "dole",
-      "doxe",
-      "dolye",
-      "doxye"
-    ]
+    "TypePattern": ["dwe", "dole", "doxe", "dolye", "doxye"]
   },
   {
     "Pattern": "どぉ",
-    "TypePattern": [
-      "dwo",
-      "dolo",
-      "doxo"
-    ]
+    "TypePattern": ["dwo", "dolo", "doxo"]
   },
   {
     "Pattern": "にゃ",
-    "TypePattern": [
-      "nya",
-      "nilya",
-      "nixya"
-    ]
+    "TypePattern": ["nya", "nilya", "nixya"]
   },
   {
     "Pattern": "にぃ",
-    "TypePattern": [
-      "nyi",
-      "nili",
-      "nixi",
-      "nilyi",
-      "nixyi"
-    ]
+    "TypePattern": ["nyi", "nili", "nixi", "nilyi", "nixyi"]
   },
   {
     "Pattern": "にゅ",
-    "TypePattern": [
-      "nyu",
-      "nilyu",
-      "nixyu"
-    ]
+    "TypePattern": ["nyu", "nilyu", "nixyu"]
   },
   {
     "Pattern": "にぇ",
-    "TypePattern": [
-      "nye",
-      "nile",
-      "nixe",
-      "nilye",
-      "nixye"
-    ]
+    "TypePattern": ["nye", "nile", "nixe", "nilye", "nixye"]
   },
   {
     "Pattern": "にょ",
-    "TypePattern": [
-      "nyo",
-      "nilyo",
-      "nixyo"
-    ]
+    "TypePattern": ["nyo", "nilyo", "nixyo"]
   },
   {
     "Pattern": "ぴゃ",
-    "TypePattern": [
-      "pya",
-      "pilya",
-      "pixya"
-    ]
+    "TypePattern": ["pya", "pilya", "pixya"]
   },
   {
     "Pattern": "ぴぃ",
-    "TypePattern": [
-      "pyi",
-      "pili",
-      "pixi",
-      "pilyi",
-      "pixyi"
-    ]
+    "TypePattern": ["pyi", "pili", "pixi", "pilyi", "pixyi"]
   },
   {
     "Pattern": "ぴゅ",
-    "TypePattern": [
-      "pyu",
-      "pilyu",
-      "pixyu"
-    ]
+    "TypePattern": ["pyu", "pilyu", "pixyu"]
   },
   {
     "Pattern": "ぴぇ",
-    "TypePattern": [
-      "pye",
-      "pile",
-      "pixe",
-      "pilye",
-      "pixye"
-    ]
+    "TypePattern": ["pye", "pile", "pixe", "pilye", "pixye"]
   },
   {
     "Pattern": "ぴょ",
-    "TypePattern": [
-      "pyo",
-      "pilyo",
-      "pixyo"
-    ]
+    "TypePattern": ["pyo", "pilyo", "pixyo"]
   },
   {
     "Pattern": "ひゃ",
-    "TypePattern": [
-      "hya",
-      "hilya",
-      "hixya"
-    ]
+    "TypePattern": ["hya", "hilya", "hixya"]
   },
   {
     "Pattern": "ひぃ",
-    "TypePattern": [
-      "hyi",
-      "hili",
-      "hixi",
-      "hilyi",
-      "hixyi"
-    ]
+    "TypePattern": ["hyi", "hili", "hixi", "hilyi", "hixyi"]
   },
   {
     "Pattern": "ひゅ",
-    "TypePattern": [
-      "hyu",
-      "hilyu",
-      "hixyu"
-    ]
+    "TypePattern": ["hyu", "hilyu", "hixyu"]
   },
   {
     "Pattern": "ひぇ",
-    "TypePattern": [
-      "hye",
-      "hile",
-      "hixe",
-      "hilye",
-      "hixye"
-    ]
+    "TypePattern": ["hye", "hile", "hixe", "hilye", "hixye"]
   },
   {
     "Pattern": "ひょ",
-    "TypePattern": [
-      "hyo",
-      "hilyo",
-      "hixyo"
-    ]
+    "TypePattern": ["hyo", "hilyo", "hixyo"]
   },
   {
     "Pattern": "びゃ",
-    "TypePattern": [
-      "bya",
-      "bilya",
-      "bixya"
-    ]
+    "TypePattern": ["bya", "bilya", "bixya"]
   },
   {
     "Pattern": "びぃ",
-    "TypePattern": [
-      "byi",
-      "bili",
-      "bixi",
-      "bilyi",
-      "bixyi"
-    ]
+    "TypePattern": ["byi", "bili", "bixi", "bilyi", "bixyi"]
   },
   {
     "Pattern": "びゅ",
-    "TypePattern": [
-      "byu",
-      "bilyu",
-      "bixyu"
-    ]
+    "TypePattern": ["byu", "bilyu", "bixyu"]
   },
   {
     "Pattern": "びぇ",
-    "TypePattern": [
-      "bye",
-      "bile",
-      "bixe",
-      "bilye",
-      "bixye"
-    ]
+    "TypePattern": ["bye", "bile", "bixe", "bilye", "bixye"]
   },
   {
     "Pattern": "びょ",
-    "TypePattern": [
-      "byo",
-      "bilyo",
-      "bixyo"
-    ]
+    "TypePattern": ["byo", "bilyo", "bixyo"]
   },
   {
     "Pattern": "ふゃ",
-    "TypePattern": [
-      "fya",
-      "fulya",
-      "fuxya",
-      "hulya",
-      "huxya"
-    ]
+    "TypePattern": ["fya", "fulya", "fuxya", "hulya", "huxya"]
   },
   {
     "Pattern": "ふぃ",
@@ -1433,13 +848,7 @@
   },
   {
     "Pattern": "ふゅ",
-    "TypePattern": [
-      "fyu",
-      "fulyu",
-      "fuxyu",
-      "hulyu",
-      "huxyu"
-    ]
+    "TypePattern": ["fyu", "fulyu", "fuxyu", "hulyu", "huxyu"]
   },
   {
     "Pattern": "ふぇ",
@@ -1458,133 +867,59 @@
   },
   {
     "Pattern": "ふょ",
-    "TypePattern": [
-      "fyo",
-      "fulyo",
-      "fuxyo",
-      "hulyo",
-      "huxyo"
-    ]
+    "TypePattern": ["fyo", "fulyo", "fuxyo", "hulyo", "huxyo"]
   },
   {
     "Pattern": "ふぁ",
-    "TypePattern": [
-      "fa",
-      "fula",
-      "fuxa",
-      "hula",
-      "huxa"
-    ]
+    "TypePattern": ["fa", "fula", "fuxa", "hula", "huxa"]
   },
   {
     "Pattern": "ふぉ",
-    "TypePattern": [
-      "fo",
-      "fulo",
-      "fuxo",
-      "hulo",
-      "huxo"
-    ]
+    "TypePattern": ["fo", "fulo", "fuxo", "hulo", "huxo"]
   },
   {
     "Pattern": "みゃ",
-    "TypePattern": [
-      "mya",
-      "milya",
-      "mixya"
-    ]
+    "TypePattern": ["mya", "milya", "mixya"]
   },
   {
     "Pattern": "みぃ",
-    "TypePattern": [
-      "myi",
-      "mili",
-      "mixi",
-      "milyi",
-      "mixyi"
-    ]
+    "TypePattern": ["myi", "mili", "mixi", "milyi", "mixyi"]
   },
   {
     "Pattern": "みゅ",
-    "TypePattern": [
-      "myu",
-      "milyu",
-      "mixyu"
-    ]
+    "TypePattern": ["myu", "milyu", "mixyu"]
   },
   {
     "Pattern": "みぇ",
-    "TypePattern": [
-      "mye",
-      "mile",
-      "mixe",
-      "milye",
-      "mixye"
-    ]
+    "TypePattern": ["mye", "mile", "mixe", "milye", "mixye"]
   },
   {
     "Pattern": "みょ",
-    "TypePattern": [
-      "myo",
-      "milyo",
-      "mixyo"
-    ]
+    "TypePattern": ["myo", "milyo", "mixyo"]
   },
   {
     "Pattern": "りゃ",
-    "TypePattern": [
-      "rya",
-      "rilya",
-      "rixya"
-    ]
+    "TypePattern": ["rya", "rilya", "rixya"]
   },
   {
     "Pattern": "りぃ",
-    "TypePattern": [
-      "ryi",
-      "rili",
-      "rixi",
-      "rilyi",
-      "rixyi"
-    ]
+    "TypePattern": ["ryi", "rili", "rixi", "rilyi", "rixyi"]
   },
   {
     "Pattern": "りゅ",
-    "TypePattern": [
-      "ryu",
-      "rilyu",
-      "rixyu"
-    ]
+    "TypePattern": ["ryu", "rilyu", "rixyu"]
   },
   {
     "Pattern": "りぇ",
-    "TypePattern": [
-      "rye",
-      "rile",
-      "rixe",
-      "rilye",
-      "rixye"
-    ]
+    "TypePattern": ["rye", "rile", "rixe", "rilye", "rixye"]
   },
   {
     "Pattern": "りょ",
-    "TypePattern": [
-      "ryo",
-      "rilyo",
-      "rixyo"
-    ]
+    "TypePattern": ["ryo", "rilyo", "rixyo"]
   },
   {
     "Pattern": "うぁ",
-    "TypePattern": [
-      "wha",
-      "ula",
-      "uxa",
-      "wula",
-      "wuxa",
-      "whula",
-      "whuxa"
-    ]
+    "TypePattern": ["wha", "ula", "uxa", "wula", "wuxa", "whula", "whuxa"]
   },
   {
     "Pattern": "うぃ",
@@ -1623,155 +958,75 @@
   },
   {
     "Pattern": "うぉ",
-    "TypePattern": [
-      "who",
-      "ulo",
-      "uxo",
-      "wulo",
-      "wuxo",
-      "whulo",
-      "whuxo"
-    ]
+    "TypePattern": ["who", "ulo", "uxo", "wulo", "wuxo", "whulo", "whuxo"]
   },
   {
     "Pattern": "ゔぁ",
-    "TypePattern": [
-      "va",
-      "vula",
-      "vuxa"
-    ]
+    "TypePattern": ["va", "vula", "vuxa"]
   },
   {
     "Pattern": "ゔぃ",
-    "TypePattern": [
-      "vi",
-      "vyi",
-      "vuli",
-      "vuxi",
-      "vulyi",
-      "vuxyi"
-    ]
+    "TypePattern": ["vi", "vyi", "vuli", "vuxi", "vulyi", "vuxyi"]
   },
   {
     "Pattern": "ゔ",
-    "TypePattern": [
-      "vu"
-    ]
+    "TypePattern": ["vu"]
   },
   {
     "Pattern": "ゔぇ",
-    "TypePattern": [
-      "ve",
-      "vye",
-      "vule",
-      "vuxe",
-      "vulye",
-      "vuxye"
-    ]
+    "TypePattern": ["ve", "vye", "vule", "vuxe", "vulye", "vuxye"]
   },
   {
     "Pattern": "ゔぉ",
-    "TypePattern": [
-      "vo",
-      "vulo",
-      "vuxo"
-    ]
+    "TypePattern": ["vo", "vulo", "vuxo"]
   },
   {
     "Pattern": "ゔゃ",
-    "TypePattern": [
-      "vya",
-      "vulya",
-      "vuxya"
-    ]
+    "TypePattern": ["vya", "vulya", "vuxya"]
   },
   {
     "Pattern": "ゔゅ",
-    "TypePattern": [
-      "vyu",
-      "vulyu",
-      "vuxyu"
-    ]
+    "TypePattern": ["vyu", "vulyu", "vuxyu"]
   },
   {
     "Pattern": "ゔょ",
-    "TypePattern": [
-      "vyo",
-      "vulyo",
-      "vuxyo"
-    ]
+    "TypePattern": ["vyo", "vulyo", "vuxyo"]
   },
   {
     "Pattern": "ゐ",
-    "TypePattern": [
-      "wyi"
-    ]
+    "TypePattern": ["wyi"]
   },
   {
     "Pattern": "ゑ",
-    "TypePattern": [
-      "wye"
-    ]
+    "TypePattern": ["wye"]
   },
   {
     "Pattern": "んあ",
-    "TypePattern": [
-      "nna",
-      "xna"
-    ]
+    "TypePattern": ["nna", "xna"]
   },
   {
     "Pattern": "んい",
-    "TypePattern": [
-      "nni",
-      "xni",
-      "nnyi",
-      "xnyi"
-    ]
+    "TypePattern": ["nni", "xni", "nnyi", "xnyi"]
   },
   {
     "Pattern": "んう",
-    "TypePattern": [
-      "nnu",
-      "xnu",
-      "nnwu",
-      "xnwu",
-      "nnwhu",
-      "xnwhu"
-    ]
+    "TypePattern": ["nnu", "xnu", "nnwu", "xnwu", "nnwhu", "xnwhu"]
   },
   {
     "Pattern": "んえ",
-    "TypePattern": [
-      "nne",
-      "xne"
-    ]
+    "TypePattern": ["nne", "xne"]
   },
   {
     "Pattern": "んお",
-    "TypePattern": [
-      "nno",
-      "xno"
-    ]
+    "TypePattern": ["nno", "xno"]
   },
   {
     "Pattern": "んか",
-    "TypePattern": [
-      "nka",
-      "nca",
-      "nnka",
-      "nnca",
-      "xnka",
-      "xnca"
-    ]
+    "TypePattern": ["nka", "nca", "nnka", "nnca", "xnka", "xnca"]
   },
   {
     "Pattern": "んき",
-    "TypePattern": [
-      "nki",
-      "nnki",
-      "xnki"
-    ]
+    "TypePattern": ["nki", "nnki", "xnki"]
   },
   {
     "Pattern": "んく",
@@ -1789,30 +1044,15 @@
   },
   {
     "Pattern": "んけ",
-    "TypePattern": [
-      "nke",
-      "nnke",
-      "xnke"
-    ]
+    "TypePattern": ["nke", "nnke", "xnke"]
   },
   {
     "Pattern": "んこ",
-    "TypePattern": [
-      "nko",
-      "nco",
-      "nnko",
-      "nnco",
-      "xnko",
-      "xnco"
-    ]
+    "TypePattern": ["nko", "nco", "nnko", "nnco", "xnko", "xnco"]
   },
   {
     "Pattern": "んさ",
-    "TypePattern": [
-      "nsa",
-      "nnsa",
-      "xnsa"
-    ]
+    "TypePattern": ["nsa", "nnsa", "xnsa"]
   },
   {
     "Pattern": "んし",
@@ -1830,474 +1070,235 @@
   },
   {
     "Pattern": "んす",
-    "TypePattern": [
-      "nsu",
-      "nnsu",
-      "xnsu"
-    ]
+    "TypePattern": ["nsu", "nnsu", "xnsu"]
   },
   {
     "Pattern": "んせ",
-    "TypePattern": [
-      "nse",
-      "nce",
-      "nnse",
-      "nnce",
-      "xnse",
-      "xnce"
-    ]
+    "TypePattern": ["nse", "nce", "nnse", "nnce", "xnse", "xnce"]
   },
   {
     "Pattern": "んそ",
-    "TypePattern": [
-      "nso",
-      "nnso",
-      "xnso"
-    ]
+    "TypePattern": ["nso", "nnso", "xnso"]
   },
   {
     "Pattern": "んた",
-    "TypePattern": [
-      "nta",
-      "nnta",
-      "xnta"
-    ]
+    "TypePattern": ["nta", "nnta", "xnta"]
   },
   {
     "Pattern": "んち",
-    "TypePattern": [
-      "nti",
-      "nchi",
-      "nnti",
-      "nnchi",
-      "xnti",
-      "xnchi"
-    ]
+    "TypePattern": ["nti", "nchi", "nnti", "nnchi", "xnti", "xnchi"]
   },
   {
     "Pattern": "んつ",
-    "TypePattern": [
-      "ntu",
-      "ntsu",
-      "nntu",
-      "nntsu",
-      "xntu",
-      "xntsu"
-    ]
+    "TypePattern": ["ntu", "ntsu", "nntu", "nntsu", "xntu", "xntsu"]
   },
   {
     "Pattern": "んて",
-    "TypePattern": [
-      "nte",
-      "nnte",
-      "xnte"
-    ]
+    "TypePattern": ["nte", "nnte", "xnte"]
   },
   {
     "Pattern": "んと",
-    "TypePattern": [
-      "nto",
-      "nnto",
-      "xnto"
-    ]
+    "TypePattern": ["nto", "nnto", "xnto"]
   },
   {
     "Pattern": "んな",
-    "TypePattern": [
-      "nnna",
-      "xnna"
-    ]
+    "TypePattern": ["nnna", "xnna"]
   },
   {
     "Pattern": "んに",
-    "TypePattern": [
-      "nnni",
-      "xnni"
-    ]
+    "TypePattern": ["nnni", "xnni"]
   },
   {
     "Pattern": "んぬ",
-    "TypePattern": [
-      "nnnu",
-      "xnnu"
-    ]
+    "TypePattern": ["nnnu", "xnnu"]
   },
   {
     "Pattern": "んね",
-    "TypePattern": [
-      "nnne",
-      "xnne"
-    ]
+    "TypePattern": ["nnne", "xnne"]
   },
   {
     "Pattern": "んの",
-    "TypePattern": [
-      "nnno",
-      "xnno"
-    ]
+    "TypePattern": ["nnno", "xnno"]
   },
   {
     "Pattern": "んは",
-    "TypePattern": [
-      "nha",
-      "nnha",
-      "xnha"
-    ]
+    "TypePattern": ["nha", "nnha", "xnha"]
   },
   {
     "Pattern": "んひ",
-    "TypePattern": [
-      "nhi",
-      "nnhi",
-      "xnhi"
-    ]
+    "TypePattern": ["nhi", "nnhi", "xnhi"]
   },
   {
     "Pattern": "んふ",
-    "TypePattern": [
-      "nfu",
-      "nhu",
-      "nnfu",
-      "nnhu",
-      "xnfu",
-      "xnhu"
-    ]
+    "TypePattern": ["nfu", "nhu", "nnfu", "nnhu", "xnfu", "xnhu"]
   },
   {
     "Pattern": "んへ",
-    "TypePattern": [
-      "nhe",
-      "nnhe",
-      "xnhe"
-    ]
+    "TypePattern": ["nhe", "nnhe", "xnhe"]
   },
   {
     "Pattern": "んほ",
-    "TypePattern": [
-      "nho",
-      "nnho",
-      "xnho"
-    ]
+    "TypePattern": ["nho", "nnho", "xnho"]
   },
   {
     "Pattern": "んま",
-    "TypePattern": [
-      "nma",
-      "nnma",
-      "xnma"
-    ]
+    "TypePattern": ["nma", "nnma", "xnma"]
   },
   {
     "Pattern": "んみ",
-    "TypePattern": [
-      "nmi",
-      "nnmi",
-      "xnmi"
-    ]
+    "TypePattern": ["nmi", "nnmi", "xnmi"]
   },
   {
     "Pattern": "んむ",
-    "TypePattern": [
-      "nmu",
-      "nnmu",
-      "xnmu"
-    ]
+    "TypePattern": ["nmu", "nnmu", "xnmu"]
   },
   {
     "Pattern": "んめ",
-    "TypePattern": [
-      "nme",
-      "nnme",
-      "xnme"
-    ]
+    "TypePattern": ["nme", "nnme", "xnme"]
   },
   {
     "Pattern": "んも",
-    "TypePattern": [
-      "nmo",
-      "nnmo",
-      "xnmo"
-    ]
+    "TypePattern": ["nmo", "nnmo", "xnmo"]
   },
   {
     "Pattern": "んや",
-    "TypePattern": [
-      "nnya",
-      "xnya"
-    ]
+    "TypePattern": ["nnya", "xnya"]
   },
   {
     "Pattern": "んゆ",
-    "TypePattern": [
-      "nnyu",
-      "xnyu"
-    ]
+    "TypePattern": ["nnyu", "xnyu"]
   },
   {
     "Pattern": "んよ",
-    "TypePattern": [
-      "nnyo",
-      "xnyo"
-    ]
+    "TypePattern": ["nnyo", "xnyo"]
   },
   {
     "Pattern": "んら",
-    "TypePattern": [
-      "nra",
-      "nnra",
-      "xnra"
-    ]
+    "TypePattern": ["nra", "nnra", "xnra"]
   },
   {
     "Pattern": "んり",
-    "TypePattern": [
-      "nri",
-      "nnri",
-      "xnri"
-    ]
+    "TypePattern": ["nri", "nnri", "xnri"]
   },
   {
     "Pattern": "んる",
-    "TypePattern": [
-      "nru",
-      "nnru",
-      "xnru"
-    ]
+    "TypePattern": ["nru", "nnru", "xnru"]
   },
   {
     "Pattern": "んれ",
-    "TypePattern": [
-      "nre",
-      "nnre",
-      "xnre"
-    ]
+    "TypePattern": ["nre", "nnre", "xnre"]
   },
   {
     "Pattern": "んろ",
-    "TypePattern": [
-      "nro",
-      "nnro",
-      "xnro"
-    ]
+    "TypePattern": ["nro", "nnro", "xnro"]
   },
   {
     "Pattern": "んわ",
-    "TypePattern": [
-      "nwa",
-      "nnwa",
-      "xnwa"
-    ]
+    "TypePattern": ["nwa", "nnwa", "xnwa"]
   },
   {
     "Pattern": "んを",
-    "TypePattern": [
-      "nwo",
-      "nnwo",
-      "xnwo"
-    ]
+    "TypePattern": ["nwo", "nnwo", "xnwo"]
   },
   {
     "Pattern": "んが",
-    "TypePattern": [
-      "nga",
-      "nnga",
-      "xnga"
-    ]
+    "TypePattern": ["nga", "nnga", "xnga"]
   },
   {
     "Pattern": "んぎ",
-    "TypePattern": [
-      "ngi",
-      "nngi",
-      "xngi"
-    ]
+    "TypePattern": ["ngi", "nngi", "xngi"]
   },
   {
     "Pattern": "んぐ",
-    "TypePattern": [
-      "ngu",
-      "nngu",
-      "xngu"
-    ]
+    "TypePattern": ["ngu", "nngu", "xngu"]
   },
   {
     "Pattern": "んげ",
-    "TypePattern": [
-      "nge",
-      "nnge",
-      "xnge"
-    ]
+    "TypePattern": ["nge", "nnge", "xnge"]
   },
   {
     "Pattern": "んご",
-    "TypePattern": [
-      "ngo",
-      "nngo",
-      "xngo"
-    ]
+    "TypePattern": ["ngo", "nngo", "xngo"]
   },
   {
     "Pattern": "んざ",
-    "TypePattern": [
-      "nza",
-      "nnza",
-      "xnza"
-    ]
+    "TypePattern": ["nza", "nnza", "xnza"]
   },
   {
     "Pattern": "んじ",
-    "TypePattern": [
-      "nji",
-      "nzi",
-      "nnji",
-      "nnzi",
-      "xnji",
-      "xnzi"
-    ]
+    "TypePattern": ["nji", "nzi", "nnji", "nnzi", "xnji", "xnzi"]
   },
   {
     "Pattern": "んず",
-    "TypePattern": [
-      "nzu",
-      "nnzu",
-      "xnzu"
-    ]
+    "TypePattern": ["nzu", "nnzu", "xnzu"]
   },
   {
     "Pattern": "んぜ",
-    "TypePattern": [
-      "nze",
-      "nnze",
-      "xnze"
-    ]
+    "TypePattern": ["nze", "nnze", "xnze"]
   },
   {
     "Pattern": "んぞ",
-    "TypePattern": [
-      "nzo",
-      "nnzo",
-      "xnze"
-    ]
+    "TypePattern": ["nzo", "nnzo", "xnze"]
   },
   {
     "Pattern": "んだ",
-    "TypePattern": [
-      "nda",
-      "nnda",
-      "xnda"
-    ]
+    "TypePattern": ["nda", "nnda", "xnda"]
   },
   {
     "Pattern": "んぢ",
-    "TypePattern": [
-      "ndi",
-      "nndi",
-      "xndi"
-    ]
+    "TypePattern": ["ndi", "nndi", "xndi"]
   },
   {
     "Pattern": "んづ",
-    "TypePattern": [
-      "ndu",
-      "nndu",
-      "xndu"
-    ]
+    "TypePattern": ["ndu", "nndu", "xndu"]
   },
   {
     "Pattern": "んで",
-    "TypePattern": [
-      "nde",
-      "nnde",
-      "xnde"
-    ]
+    "TypePattern": ["nde", "nnde", "xnde"]
   },
   {
     "Pattern": "んど",
-    "TypePattern": [
-      "ndo",
-      "nndo",
-      "xndo"
-    ]
+    "TypePattern": ["ndo", "nndo", "xndo"]
   },
   {
     "Pattern": "んば",
-    "TypePattern": [
-      "nba",
-      "nnba",
-      "xnba"
-    ]
+    "TypePattern": ["nba", "nnba", "xnba"]
   },
   {
     "Pattern": "んび",
-    "TypePattern": [
-      "nbi",
-      "nnbi",
-      "xnbi"
-    ]
+    "TypePattern": ["nbi", "nnbi", "xnbi"]
   },
   {
     "Pattern": "んぶ",
-    "TypePattern": [
-      "nbu",
-      "nnbu",
-      "xnbu"
-    ]
+    "TypePattern": ["nbu", "nnbu", "xnbu"]
   },
   {
     "Pattern": "んべ",
-    "TypePattern": [
-      "nbe",
-      "nnbe",
-      "xnbe"
-    ]
+    "TypePattern": ["nbe", "nnbe", "xnbe"]
   },
   {
     "Pattern": "んぼ",
-    "TypePattern": [
-      "nbo",
-      "nnbo",
-      "xnbo"
-    ]
+    "TypePattern": ["nbo", "nnbo", "xnbo"]
   },
   {
     "Pattern": "んぱ",
-    "TypePattern": [
-      "npa",
-      "nnpa",
-      "xnpa"
-    ]
+    "TypePattern": ["npa", "nnpa", "xnpa"]
   },
   {
     "Pattern": "んぴ",
-    "TypePattern": [
-      "npi",
-      "nnpi",
-      "xnpi"
-    ]
+    "TypePattern": ["npi", "nnpi", "xnpi"]
   },
   {
     "Pattern": "んぷ",
-    "TypePattern": [
-      "npu",
-      "nnpu",
-      "xnpu"
-    ]
+    "TypePattern": ["npu", "nnpu", "xnpu"]
   },
   {
     "Pattern": "んぺ",
-    "TypePattern": [
-      "npe",
-      "nnpe",
-      "xnpe"
-    ]
+    "TypePattern": ["npe", "nnpe", "xnpe"]
   },
   {
     "Pattern": "んぽ",
-    "TypePattern": [
-      "npo",
-      "nnpo",
-      "xnpo"
-    ]
+    "TypePattern": ["npo", "nnpo", "xnpo"]
   },
   {
     "Pattern": "んきゃ",
@@ -2941,6 +1942,20 @@
       "xntixyo",
       "xnchilyo",
       "xnchixyo"
+    ]
+  },
+  {
+    "Pattern": "んぢぃ",
+    "TypePattern": [
+      "ndyi",
+      "nndyi",
+      "xndyi",
+      "ndilyi",
+      "nndilyi",
+      "xndilyi",
+      "ndixyi",
+      "nndixyi",
+      "xndixyi"
     ]
   },
   {
@@ -4226,11 +3241,7 @@
   },
   {
     "Pattern": "んゔ",
-    "TypePattern": [
-      "nvu",
-      "nnvu",
-      "xnvu"
-    ]
+    "TypePattern": ["nvu", "nnvu", "xnvu"]
   },
   {
     "Pattern": "んゔぇ",
@@ -4313,27 +3324,15 @@
   },
   {
     "Pattern": "んゐ",
-    "TypePattern": [
-      "nwyi",
-      "nnwyi",
-      "xnwyi"
-    ]
+    "TypePattern": ["nwyi", "nnwyi", "xnwyi"]
   },
   {
     "Pattern": "んゑ",
-    "TypePattern": [
-      "nwye",
-      "nnwye",
-      "xnwye"
-    ]
+    "TypePattern": ["nwye", "nnwye", "xnwye"]
   },
   {
     "Pattern": "ん、",
-    "TypePattern": [
-      "n,",
-      "nn,",
-      "xn,"
-    ]
+    "TypePattern": ["n,", "nn,", "xn,"]
   },
   {
     "Pattern": "っか",
@@ -4352,13 +3351,7 @@
   },
   {
     "Pattern": "っき",
-    "TypePattern": [
-      "kki",
-      "ltuki",
-      "xtuki",
-      "ltsuki",
-      "xtsuki"
-    ]
+    "TypePattern": ["kki", "ltuki", "xtuki", "ltsuki", "xtsuki"]
   },
   {
     "Pattern": "っく",
@@ -4377,13 +3370,7 @@
   },
   {
     "Pattern": "っけ",
-    "TypePattern": [
-      "kke",
-      "ltuke",
-      "xtuke",
-      "ltsuke",
-      "xtsuke"
-    ]
+    "TypePattern": ["kke", "ltuke", "xtuke", "ltsuke", "xtsuke"]
   },
   {
     "Pattern": "っこ",
@@ -4402,13 +3389,7 @@
   },
   {
     "Pattern": "っさ",
-    "TypePattern": [
-      "ssa",
-      "ltusa",
-      "xtusa",
-      "ltsusa",
-      "xtsusa"
-    ]
+    "TypePattern": ["ssa", "ltusa", "xtusa", "ltsusa", "xtsusa"]
   },
   {
     "Pattern": "っし",
@@ -4432,13 +3413,7 @@
   },
   {
     "Pattern": "っす",
-    "TypePattern": [
-      "ssu",
-      "ltusu",
-      "xtusu",
-      "ltsusu",
-      "xtsusu"
-    ]
+    "TypePattern": ["ssu", "ltusu", "xtusu", "ltsusu", "xtsusu"]
   },
   {
     "Pattern": "っせ",
@@ -4457,23 +3432,11 @@
   },
   {
     "Pattern": "っそ",
-    "TypePattern": [
-      "sso",
-      "ltuso",
-      "xtuso",
-      "ltsuso",
-      "xtsuso"
-    ]
+    "TypePattern": ["sso", "ltuso", "xtuso", "ltsuso", "xtsuso"]
   },
   {
     "Pattern": "った",
-    "TypePattern": [
-      "tta",
-      "ltuta",
-      "xtuta",
-      "ltsuta",
-      "xtsuta"
-    ]
+    "TypePattern": ["tta", "ltuta", "xtuta", "ltsuta", "xtsuta"]
   },
   {
     "Pattern": "っち",
@@ -4507,88 +3470,39 @@
   },
   {
     "Pattern": "って",
-    "TypePattern": [
-      "tte",
-      "ltute",
-      "xtute",
-      "ltsute",
-      "xtsute"
-    ]
+    "TypePattern": ["tte", "ltute", "xtute", "ltsute", "xtsute"]
   },
   {
     "Pattern": "っと",
-    "TypePattern": [
-      "tto",
-      "ltuto",
-      "xtuto",
-      "ltsuto",
-      "xtsuto"
-    ]
+    "TypePattern": ["tto", "ltuto", "xtuto", "ltsuto", "xtsuto"]
   },
   {
     "Pattern": "っな",
-    "TypePattern": [
-      "ltuna",
-      "xtuna",
-      "ltsuna",
-      "xtsuna"
-    ]
+    "TypePattern": ["ltuna", "xtuna", "ltsuna", "xtsuna"]
   },
   {
     "Pattern": "っに",
-    "TypePattern": [
-      "ltuni",
-      "xtuni",
-      "ltsuni",
-      "xtsuni"
-    ]
+    "TypePattern": ["ltuni", "xtuni", "ltsuni", "xtsuni"]
   },
   {
     "Pattern": "っぬ",
-    "TypePattern": [
-      "ltunu",
-      "xtunu",
-      "ltsunu",
-      "xtsunu"
-    ]
+    "TypePattern": ["ltunu", "xtunu", "ltsunu", "xtsunu"]
   },
   {
     "Pattern": "っね",
-    "TypePattern": [
-      "ltune",
-      "xtune",
-      "ltsune",
-      "xtsune"
-    ]
+    "TypePattern": ["ltune", "xtune", "ltsune", "xtsune"]
   },
   {
     "Pattern": "っの",
-    "TypePattern": [
-      "ltuno",
-      "xtuno",
-      "ltsuno",
-      "xtsuno"
-    ]
+    "TypePattern": ["ltuno", "xtuno", "ltsuno", "xtsuno"]
   },
   {
     "Pattern": "っは",
-    "TypePattern": [
-      "hha",
-      "ltuha",
-      "xtuha",
-      "ltsuha",
-      "xtsuha"
-    ]
+    "TypePattern": ["hha", "ltuha", "xtuha", "ltsuha", "xtsuha"]
   },
   {
     "Pattern": "っひ",
-    "TypePattern": [
-      "hhi",
-      "ltuhi",
-      "xtuhi",
-      "ltsuhi",
-      "xtsuhi"
-    ]
+    "TypePattern": ["hhi", "ltuhi", "xtuhi", "ltsuhi", "xtsuhi"]
   },
   {
     "Pattern": "っふ",
@@ -4607,233 +3521,95 @@
   },
   {
     "Pattern": "っへ",
-    "TypePattern": [
-      "hhe",
-      "ltuhe",
-      "xtuhe",
-      "ltsuhe",
-      "xtsuhe"
-    ]
+    "TypePattern": ["hhe", "ltuhe", "xtuhe", "ltsuhe", "xtsuhe"]
   },
   {
     "Pattern": "っほ",
-    "TypePattern": [
-      "hho",
-      "ltuho",
-      "xtuho",
-      "ltsuho",
-      "xtsuho"
-    ]
+    "TypePattern": ["hho", "ltuho", "xtuho", "ltsuho", "xtsuho"]
   },
   {
     "Pattern": "っま",
-    "TypePattern": [
-      "mma",
-      "ltuma",
-      "xtuma",
-      "ltsuma",
-      "xtsuma"
-    ]
+    "TypePattern": ["mma", "ltuma", "xtuma", "ltsuma", "xtsuma"]
   },
   {
     "Pattern": "っみ",
-    "TypePattern": [
-      "mmi",
-      "ltumi",
-      "xtumi",
-      "ltsumi",
-      "xtsumi"
-    ]
+    "TypePattern": ["mmi", "ltumi", "xtumi", "ltsumi", "xtsumi"]
   },
   {
     "Pattern": "っむ",
-    "TypePattern": [
-      "mmu",
-      "ltumu",
-      "xtumu",
-      "ltsumu",
-      "xtsumu"
-    ]
+    "TypePattern": ["mmu", "ltumu", "xtumu", "ltsumu", "xtsumu"]
   },
   {
     "Pattern": "っめ",
-    "TypePattern": [
-      "mme",
-      "ltume",
-      "xtume",
-      "ltsume",
-      "xtsume"
-    ]
+    "TypePattern": ["mme", "ltume", "xtume", "ltsume", "xtsume"]
   },
   {
     "Pattern": "っも",
-    "TypePattern": [
-      "mmo",
-      "ltumo",
-      "xtumo",
-      "ltsumo",
-      "xtsumo"
-    ]
+    "TypePattern": ["mmo", "ltumo", "xtumo", "ltsumo", "xtsumo"]
   },
   {
     "Pattern": "っや",
-    "TypePattern": [
-      "yya",
-      "ltuya",
-      "xtuya",
-      "ltsuya",
-      "xtsuya"
-    ]
+    "TypePattern": ["yya", "ltuya", "xtuya", "ltsuya", "xtsuya"]
   },
   {
     "Pattern": "っゆ",
-    "TypePattern": [
-      "yyu",
-      "ltuyu",
-      "xtuyu",
-      "ltsuyu",
-      "xtsuyu"
-    ]
+    "TypePattern": ["yyu", "ltuyu", "xtuyu", "ltsuyu", "xtsuyu"]
   },
   {
     "Pattern": "っよ",
-    "TypePattern": [
-      "yyo",
-      "ltuyo",
-      "xtuyo",
-      "ltsuyo",
-      "xtsuyo"
-    ]
+    "TypePattern": ["yyo", "ltuyo", "xtuyo", "ltsuyo", "xtsuyo"]
   },
   {
     "Pattern": "っら",
-    "TypePattern": [
-      "rra",
-      "ltura",
-      "xtura",
-      "ltsura",
-      "xtsura"
-    ]
+    "TypePattern": ["rra", "ltura", "xtura", "ltsura", "xtsura"]
   },
   {
     "Pattern": "っり",
-    "TypePattern": [
-      "rri",
-      "lturi",
-      "xturi",
-      "ltsuri",
-      "xtsuri"
-    ]
+    "TypePattern": ["rri", "lturi", "xturi", "ltsuri", "xtsuri"]
   },
   {
     "Pattern": "っる",
-    "TypePattern": [
-      "rru",
-      "lturu",
-      "xturu",
-      "ltsuru",
-      "xtsuru"
-    ]
+    "TypePattern": ["rru", "lturu", "xturu", "ltsuru", "xtsuru"]
   },
   {
     "Pattern": "っれ",
-    "TypePattern": [
-      "rre",
-      "lture",
-      "xture",
-      "ltsure",
-      "xtsure"
-    ]
+    "TypePattern": ["rre", "lture", "xture", "ltsure", "xtsure"]
   },
   {
     "Pattern": "っろ",
-    "TypePattern": [
-      "rro",
-      "lturo",
-      "xturo",
-      "ltsuro",
-      "xtsuro"
-    ]
+    "TypePattern": ["rro", "lturo", "xturo", "ltsuro", "xtsuro"]
   },
   {
     "Pattern": "っわ",
-    "TypePattern": [
-      "wwa",
-      "ltuwa",
-      "xtuwa",
-      "ltsuwa",
-      "xtsuwa"
-    ]
+    "TypePattern": ["wwa", "ltuwa", "xtuwa", "ltsuwa", "xtsuwa"]
   },
   {
     "Pattern": "っを",
-    "TypePattern": [
-      "wwo",
-      "ltuwo",
-      "xtuwo",
-      "ltsuwo",
-      "xtsuwo"
-    ]
+    "TypePattern": ["wwo", "ltuwo", "xtuwo", "ltsuwo", "xtsuwo"]
   },
   {
     "Pattern": "っが",
-    "TypePattern": [
-      "gga",
-      "ltuga",
-      "xtuga",
-      "ltsuga",
-      "xtsuga"
-    ]
+    "TypePattern": ["gga", "ltuga", "xtuga", "ltsuga", "xtsuga"]
   },
   {
     "Pattern": "っぎ",
-    "TypePattern": [
-      "ggi",
-      "ltugi",
-      "xtugi",
-      "ltsugi",
-      "xtsugi"
-    ]
+    "TypePattern": ["ggi", "ltugi", "xtugi", "ltsugi", "xtsugi"]
   },
   {
     "Pattern": "っぐ",
-    "TypePattern": [
-      "ggu",
-      "ltugu",
-      "xtugu",
-      "ltsugu",
-      "xtsugu"
-    ]
+    "TypePattern": ["ggu", "ltugu", "xtugu", "ltsugu", "xtsugu"]
   },
   {
     "Pattern": "っげ",
-    "TypePattern": [
-      "gge",
-      "ltuge",
-      "xtuge",
-      "ltsuge",
-      "xtsuge"
-    ]
+    "TypePattern": ["gge", "ltuge", "xtuge", "ltsuge", "xtsuge"]
   },
   {
     "Pattern": "っご",
-    "TypePattern": [
-      "ggo",
-      "ltugo",
-      "xtugo",
-      "ltsugo",
-      "xtsugo"
-    ]
+    "TypePattern": ["ggo", "ltugo", "xtugo", "ltsugo", "xtsugo"]
   },
   {
     "Pattern": "っざ",
-    "TypePattern": [
-      "zza",
-      "ltuza",
-      "xtuza",
-      "ltsuza",
-      "xtsuza"
-    ]
+    "TypePattern": ["zza", "ltuza", "xtuza", "ltsuza", "xtsuza"]
   },
   {
     "Pattern": "っじ",
@@ -4852,183 +3628,75 @@
   },
   {
     "Pattern": "っず",
-    "TypePattern": [
-      "zzu",
-      "ltuzu",
-      "xtuzu",
-      "ltsuzu",
-      "xtsuzu"
-    ]
+    "TypePattern": ["zzu", "ltuzu", "xtuzu", "ltsuzu", "xtsuzu"]
   },
   {
     "Pattern": "っぜ",
-    "TypePattern": [
-      "zze",
-      "ltuze",
-      "xtuze",
-      "ltsuze",
-      "xtsuze"
-    ]
+    "TypePattern": ["zze", "ltuze", "xtuze", "ltsuze", "xtsuze"]
   },
   {
     "Pattern": "っぞ",
-    "TypePattern": [
-      "zzo",
-      "ltuzo",
-      "xtuzo",
-      "ltsuzo",
-      "xtsuzo"
-    ]
+    "TypePattern": ["zzo", "ltuzo", "xtuzo", "ltsuzo", "xtsuzo"]
   },
   {
     "Pattern": "っだ",
-    "TypePattern": [
-      "dda",
-      "ltuda",
-      "xtuda",
-      "ltsuda",
-      "xtsuda"
-    ]
+    "TypePattern": ["dda", "ltuda", "xtuda", "ltsuda", "xtsuda"]
   },
   {
     "Pattern": "っぢ",
-    "TypePattern": [
-      "ddi",
-      "ltudi",
-      "xtudi",
-      "ltsudi",
-      "xtsudi"
-    ]
+    "TypePattern": ["ddi", "ltudi", "xtudi", "ltsudi", "xtsudi"]
   },
   {
     "Pattern": "っづ",
-    "TypePattern": [
-      "ddu",
-      "ltudu",
-      "xtudu",
-      "ltsudu",
-      "xtsudu"
-    ]
+    "TypePattern": ["ddu", "ltudu", "xtudu", "ltsudu", "xtsudu"]
   },
   {
     "Pattern": "っで",
-    "TypePattern": [
-      "dde",
-      "ltude",
-      "xtude",
-      "ltsude",
-      "xtsude"
-    ]
+    "TypePattern": ["dde", "ltude", "xtude", "ltsude", "xtsude"]
   },
   {
     "Pattern": "っど",
-    "TypePattern": [
-      "ddo",
-      "ltudo",
-      "xtudo",
-      "ltsudo",
-      "xtsudo"
-    ]
+    "TypePattern": ["ddo", "ltudo", "xtudo", "ltsudo", "xtsudo"]
   },
   {
     "Pattern": "っば",
-    "TypePattern": [
-      "bba",
-      "ltuba",
-      "xtuba",
-      "ltsuba",
-      "xtsuba"
-    ]
+    "TypePattern": ["bba", "ltuba", "xtuba", "ltsuba", "xtsuba"]
   },
   {
     "Pattern": "っび",
-    "TypePattern": [
-      "bbi",
-      "ltubi",
-      "xtubi",
-      "ltsubi",
-      "xtsubi"
-    ]
+    "TypePattern": ["bbi", "ltubi", "xtubi", "ltsubi", "xtsubi"]
   },
   {
     "Pattern": "っぶ",
-    "TypePattern": [
-      "bbu",
-      "ltubu",
-      "xtubu",
-      "ltsubu",
-      "xtsubu"
-    ]
+    "TypePattern": ["bbu", "ltubu", "xtubu", "ltsubu", "xtsubu"]
   },
   {
     "Pattern": "っべ",
-    "TypePattern": [
-      "bbe",
-      "ltube",
-      "xtube",
-      "ltsube",
-      "xtsube"
-    ]
+    "TypePattern": ["bbe", "ltube", "xtube", "ltsube", "xtsube"]
   },
   {
     "Pattern": "っぼ",
-    "TypePattern": [
-      "bbo",
-      "ltubo",
-      "xtubo",
-      "ltsubo",
-      "xtsubo"
-    ]
+    "TypePattern": ["bbo", "ltubo", "xtubo", "ltsubo", "xtsubo"]
   },
   {
     "Pattern": "っぱ",
-    "TypePattern": [
-      "ppa",
-      "ltupa",
-      "xtupa",
-      "ltsupa",
-      "xtsupa"
-    ]
+    "TypePattern": ["ppa", "ltupa", "xtupa", "ltsupa", "xtsupa"]
   },
   {
     "Pattern": "っぴ",
-    "TypePattern": [
-      "ppi",
-      "ltupi",
-      "xtupi",
-      "ltsupi",
-      "xtsupi"
-    ]
+    "TypePattern": ["ppi", "ltupi", "xtupi", "ltsupi", "xtsupi"]
   },
   {
     "Pattern": "っぷ",
-    "TypePattern": [
-      "ppu",
-      "ltupu",
-      "xtupu",
-      "ltsupu",
-      "xtsupu"
-    ]
+    "TypePattern": ["ppu", "ltupu", "xtupu", "ltsupu", "xtsupu"]
   },
   {
     "Pattern": "っぺ",
-    "TypePattern": [
-      "ppe",
-      "ltupe",
-      "xtupe",
-      "ltsupe",
-      "xtsupe"
-    ]
+    "TypePattern": ["ppe", "ltupe", "xtupe", "ltsupe", "xtsupe"]
   },
   {
     "Pattern": "っぽ",
-    "TypePattern": [
-      "ppo",
-      "ltupo",
-      "xtupo",
-      "ltsupo",
-      "xtsupo"
-    ]
+    "TypePattern": ["ppo", "ltupo", "xtupo", "ltsupo", "xtsupo"]
   },
   {
     "Pattern": "っきゃ",
@@ -5142,6 +3810,36 @@
       "xtugixya",
       "ltsugixya",
       "xtsugixya"
+    ]
+  },
+  {
+    "Pattern": "っぎぃ",
+    "TypePattern": [
+      "ggyi",
+      "ggili",
+      "ggilyi",
+      "ggixi",
+      "ggixyi",
+      "ltugyi",
+      "xtugyi",
+      "ltsugyi",
+      "xtsugyi",
+      "ltugili",
+      "xtugili",
+      "ltsugili",
+      "xtsugili",
+      "ltugilyi",
+      "xtugilyi",
+      "ltsugilyi",
+      "xtsugilyi",
+      "ltugixi",
+      "xtugixi",
+      "ltsugixi",
+      "xtsugixi",
+      "ltugixyi",
+      "xtugixyi",
+      "ltsugixyi",
+      "xtsugixyi"
     ]
   },
   {
@@ -5952,6 +4650,26 @@
       "xtudixya",
       "ltsudixya",
       "xtsudixya"
+    ]
+  },
+  {
+    "Pattern": "っぢぃ",
+    "TypePattern": [
+      "ddyi",
+      "ddilyi",
+      "ddixyi",
+      "ltudyi",
+      "xtudyi",
+      "ltsudyi",
+      "xtsudyi",
+      "ltudilyi",
+      "xtudilyi",
+      "ltsudilyi",
+      "xtsudilyi",
+      "ltudixyi",
+      "xtudixyi",
+      "ltsudixyi",
+      "xtsudixyi"
     ]
   },
   {
@@ -7196,756 +5914,482 @@
   },
   {
     "Pattern": "ー",
-    "TypePattern": [
-      "-"
-    ]
+    "TypePattern": ["-"]
   },
   {
     "Pattern": "、",
-    "TypePattern": [
-      ","
-    ]
+    "TypePattern": [","]
   },
   {
     "Pattern": "。",
-    "TypePattern": [
-      "."
-    ]
+    "TypePattern": ["."]
   },
   {
     "Pattern": "0",
-    "TypePattern": [
-      "0"
-    ]
+    "TypePattern": ["0"]
   },
   {
     "Pattern": "1",
-    "TypePattern": [
-      "1"
-    ]
+    "TypePattern": ["1"]
   },
   {
     "Pattern": "2",
-    "TypePattern": [
-      "2"
-    ]
+    "TypePattern": ["2"]
   },
   {
     "Pattern": "3",
-    "TypePattern": [
-      "3"
-    ]
+    "TypePattern": ["3"]
   },
   {
     "Pattern": "4",
-    "TypePattern": [
-      "4"
-    ]
+    "TypePattern": ["4"]
   },
   {
     "Pattern": "5",
-    "TypePattern": [
-      "5"
-    ]
+    "TypePattern": ["5"]
   },
   {
     "Pattern": "6",
-    "TypePattern": [
-      "6"
-    ]
+    "TypePattern": ["6"]
   },
   {
     "Pattern": "7",
-    "TypePattern": [
-      "7"
-    ]
+    "TypePattern": ["7"]
   },
   {
     "Pattern": "8",
-    "TypePattern": [
-      "8"
-    ]
+    "TypePattern": ["8"]
   },
   {
     "Pattern": "9",
-    "TypePattern": [
-      "9"
-    ]
+    "TypePattern": ["9"]
   },
   {
     "Pattern": "a",
-    "TypePattern": [
-      "a"
-    ]
+    "TypePattern": ["a"]
   },
   {
     "Pattern": "b",
-    "TypePattern": [
-      "b"
-    ]
+    "TypePattern": ["b"]
   },
   {
     "Pattern": "c",
-    "TypePattern": [
-      "c"
-    ]
+    "TypePattern": ["c"]
   },
   {
     "Pattern": "d",
-    "TypePattern": [
-      "d"
-    ]
+    "TypePattern": ["d"]
   },
   {
     "Pattern": "e",
-    "TypePattern": [
-      "e"
-    ]
+    "TypePattern": ["e"]
   },
   {
     "Pattern": "f",
-    "TypePattern": [
-      "f"
-    ]
+    "TypePattern": ["f"]
   },
   {
     "Pattern": "g",
-    "TypePattern": [
-      "g"
-    ]
+    "TypePattern": ["g"]
   },
   {
     "Pattern": "h",
-    "TypePattern": [
-      "h"
-    ]
+    "TypePattern": ["h"]
   },
   {
     "Pattern": "i",
-    "TypePattern": [
-      "i"
-    ]
+    "TypePattern": ["i"]
   },
   {
     "Pattern": "j",
-    "TypePattern": [
-      "j"
-    ]
+    "TypePattern": ["j"]
   },
   {
     "Pattern": "k",
-    "TypePattern": [
-      "k"
-    ]
+    "TypePattern": ["k"]
   },
   {
     "Pattern": "l",
-    "TypePattern": [
-      "l"
-    ]
+    "TypePattern": ["l"]
   },
   {
     "Pattern": "m",
-    "TypePattern": [
-      "m"
-    ]
+    "TypePattern": ["m"]
   },
   {
     "Pattern": "n",
-    "TypePattern": [
-      "n"
-    ]
+    "TypePattern": ["n"]
   },
   {
     "Pattern": "o",
-    "TypePattern": [
-      "o"
-    ]
+    "TypePattern": ["o"]
   },
   {
     "Pattern": "p",
-    "TypePattern": [
-      "p"
-    ]
+    "TypePattern": ["p"]
   },
   {
     "Pattern": "q",
-    "TypePattern": [
-      "q"
-    ]
+    "TypePattern": ["q"]
   },
   {
     "Pattern": "r",
-    "TypePattern": [
-      "r"
-    ]
+    "TypePattern": ["r"]
   },
   {
     "Pattern": "s",
-    "TypePattern": [
-      "s"
-    ]
+    "TypePattern": ["s"]
   },
   {
     "Pattern": "t",
-    "TypePattern": [
-      "t"
-    ]
+    "TypePattern": ["t"]
   },
   {
     "Pattern": "u",
-    "TypePattern": [
-      "u"
-    ]
+    "TypePattern": ["u"]
   },
   {
     "Pattern": "v",
-    "TypePattern": [
-      "v"
-    ]
+    "TypePattern": ["v"]
   },
   {
     "Pattern": "w",
-    "TypePattern": [
-      "w"
-    ]
+    "TypePattern": ["w"]
   },
   {
     "Pattern": "x",
-    "TypePattern": [
-      "x"
-    ]
+    "TypePattern": ["x"]
   },
   {
     "Pattern": "y",
-    "TypePattern": [
-      "y"
-    ]
+    "TypePattern": ["y"]
   },
   {
     "Pattern": "z",
-    "TypePattern": [
-      "z"
-    ]
+    "TypePattern": ["z"]
   },
   {
     "Pattern": "A",
-    "TypePattern": [
-      "A"
-    ]
+    "TypePattern": ["A"]
   },
   {
     "Pattern": "B",
-    "TypePattern": [
-      "B"
-    ]
+    "TypePattern": ["B"]
   },
   {
     "Pattern": "C",
-    "TypePattern": [
-      "C"
-    ]
+    "TypePattern": ["C"]
   },
   {
     "Pattern": "D",
-    "TypePattern": [
-      "D"
-    ]
+    "TypePattern": ["D"]
   },
   {
     "Pattern": "E",
-    "TypePattern": [
-      "E"
-    ]
+    "TypePattern": ["E"]
   },
   {
     "Pattern": "F",
-    "TypePattern": [
-      "F"
-    ]
+    "TypePattern": ["F"]
   },
   {
     "Pattern": "G",
-    "TypePattern": [
-      "G"
-    ]
+    "TypePattern": ["G"]
   },
   {
     "Pattern": "H",
-    "TypePattern": [
-      "H"
-    ]
+    "TypePattern": ["H"]
   },
   {
     "Pattern": "I",
-    "TypePattern": [
-      "I"
-    ]
+    "TypePattern": ["I"]
   },
   {
     "Pattern": "J",
-    "TypePattern": [
-      "J"
-    ]
+    "TypePattern": ["J"]
   },
   {
     "Pattern": "K",
-    "TypePattern": [
-      "K"
-    ]
+    "TypePattern": ["K"]
   },
   {
     "Pattern": "L",
-    "TypePattern": [
-      "L"
-    ]
+    "TypePattern": ["L"]
   },
   {
     "Pattern": "M",
-    "TypePattern": [
-      "M"
-    ]
+    "TypePattern": ["M"]
   },
   {
     "Pattern": "N",
-    "TypePattern": [
-      "N"
-    ]
+    "TypePattern": ["N"]
   },
   {
     "Pattern": "O",
-    "TypePattern": [
-      "O"
-    ]
+    "TypePattern": ["O"]
   },
   {
     "Pattern": "P",
-    "TypePattern": [
-      "P"
-    ]
+    "TypePattern": ["P"]
   },
   {
     "Pattern": "Q",
-    "TypePattern": [
-      "Q"
-    ]
+    "TypePattern": ["Q"]
   },
   {
     "Pattern": "R",
-    "TypePattern": [
-      "R"
-    ]
+    "TypePattern": ["R"]
   },
   {
     "Pattern": "S",
-    "TypePattern": [
-      "S"
-    ]
+    "TypePattern": ["S"]
   },
   {
     "Pattern": "T",
-    "TypePattern": [
-      "T"
-    ]
+    "TypePattern": ["T"]
   },
   {
     "Pattern": "U",
-    "TypePattern": [
-      "U"
-    ]
+    "TypePattern": ["U"]
   },
   {
     "Pattern": "V",
-    "TypePattern": [
-      "V"
-    ]
+    "TypePattern": ["V"]
   },
   {
     "Pattern": "W",
-    "TypePattern": [
-      "W"
-    ]
+    "TypePattern": ["W"]
   },
   {
     "Pattern": "X",
-    "TypePattern": [
-      "X"
-    ]
+    "TypePattern": ["X"]
   },
   {
     "Pattern": "Y",
-    "TypePattern": [
-      "Y"
-    ]
+    "TypePattern": ["Y"]
   },
   {
     "Pattern": "Z",
-    "TypePattern": [
-      "Z"
-    ]
+    "TypePattern": ["Z"]
+  },
+  {
+    "Pattern": " ",
+    "TypePattern": [" "]
+  },
+  {
+    "Pattern": ",",
+    "TypePattern": [","]
+  },
+  {
+    "Pattern": ".",
+    "TypePattern": ["."]
   },
   {
     "Pattern": "んa",
-    "TypePattern": [
-      "nna",
-      "xna"
-    ]
+    "TypePattern": ["nna", "xna"]
   },
   {
     "Pattern": "んb",
-    "TypePattern": [
-      "nnb",
-      "xnb"
-    ]
+    "TypePattern": ["nnb", "xnb"]
   },
   {
     "Pattern": "んc",
-    "TypePattern": [
-      "nnc",
-      "xnc"
-    ]
+    "TypePattern": ["nnc", "xnc"]
   },
   {
     "Pattern": "んd",
-    "TypePattern": [
-      "nnd",
-      "xnd"
-    ]
+    "TypePattern": ["nnd", "xnd"]
   },
   {
     "Pattern": "んe",
-    "TypePattern": [
-      "nne",
-      "xne"
-    ]
+    "TypePattern": ["nne", "xne"]
   },
   {
     "Pattern": "んf",
-    "TypePattern": [
-      "nnf",
-      "xnf"
-    ]
+    "TypePattern": ["nnf", "xnf"]
   },
   {
     "Pattern": "んg",
-    "TypePattern": [
-      "nng",
-      "xng"
-    ]
+    "TypePattern": ["nng", "xng"]
   },
   {
     "Pattern": "んh",
-    "TypePattern": [
-      "nnh",
-      "xnh"
-    ]
+    "TypePattern": ["nnh", "xnh"]
   },
   {
     "Pattern": "んi",
-    "TypePattern": [
-      "nni",
-      "xni"
-    ]
+    "TypePattern": ["nni", "xni"]
   },
   {
     "Pattern": "んj",
-    "TypePattern": [
-      "nnj",
-      "xnj"
-    ]
+    "TypePattern": ["nnj", "xnj"]
   },
   {
     "Pattern": "んk",
-    "TypePattern": [
-      "nnk",
-      "xnk"
-    ]
+    "TypePattern": ["nnk", "xnk"]
   },
   {
     "Pattern": "んl",
-    "TypePattern": [
-      "nnl",
-      "xnl"
-    ]
+    "TypePattern": ["nnl", "xnl"]
   },
   {
     "Pattern": "んm",
-    "TypePattern": [
-      "nnm",
-      "xnm"
-    ]
+    "TypePattern": ["nnm", "xnm"]
   },
   {
     "Pattern": "んn",
-    "TypePattern": [
-      "nnn",
-      "xnn"
-    ]
+    "TypePattern": ["nnn", "xnn"]
   },
   {
     "Pattern": "んo",
-    "TypePattern": [
-      "nno",
-      "xno"
-    ]
+    "TypePattern": ["nno", "xno"]
   },
   {
     "Pattern": "んp",
-    "TypePattern": [
-      "nnp",
-      "xnp"
-    ]
+    "TypePattern": ["nnp", "xnp"]
   },
   {
     "Pattern": "んq",
-    "TypePattern": [
-      "nnq",
-      "xnq"
-    ]
+    "TypePattern": ["nnq", "xnq"]
   },
   {
     "Pattern": "んr",
-    "TypePattern": [
-      "nnr",
-      "xnr"
-    ]
+    "TypePattern": ["nnr", "xnr"]
   },
   {
     "Pattern": "んs",
-    "TypePattern": [
-      "nns",
-      "xns"
-    ]
+    "TypePattern": ["nns", "xns"]
   },
   {
     "Pattern": "んt",
-    "TypePattern": [
-      "nnt",
-      "xnt"
-    ]
+    "TypePattern": ["nnt", "xnt"]
   },
   {
     "Pattern": "んu",
-    "TypePattern": [
-      "nnu",
-      "xnu"
-    ]
+    "TypePattern": ["nnu", "xnu"]
   },
   {
     "Pattern": "んv",
-    "TypePattern": [
-      "nnv",
-      "xnv"
-    ]
+    "TypePattern": ["nnv", "xnv"]
   },
   {
     "Pattern": "んw",
-    "TypePattern": [
-      "nnw",
-      "xnw"
-    ]
+    "TypePattern": ["nnw", "xnw"]
   },
   {
     "Pattern": "んx",
-    "TypePattern": [
-      "nnx",
-      "xnx"
-    ]
+    "TypePattern": ["nnx", "xnx"]
   },
   {
     "Pattern": "んy",
-    "TypePattern": [
-      "nny",
-      "xny"
-    ]
+    "TypePattern": ["nny", "xny"]
   },
   {
     "Pattern": "んz",
-    "TypePattern": [
-      "nnz",
-      "xnz"
-    ]
+    "TypePattern": ["nnz", "xnz"]
   },
   {
     "Pattern": "んA",
-    "TypePattern": [
-      "nnA",
-      "xnA"
-    ]
+    "TypePattern": ["nnA", "xnA"]
   },
   {
     "Pattern": "んB",
-    "TypePattern": [
-      "nnB",
-      "xnB"
-    ]
+    "TypePattern": ["nnB", "xnB"]
   },
   {
     "Pattern": "んC",
-    "TypePattern": [
-      "nnC",
-      "xnC"
-    ]
+    "TypePattern": ["nnC", "xnC"]
   },
   {
     "Pattern": "んD",
-    "TypePattern": [
-      "nnD",
-      "xnD"
-    ]
+    "TypePattern": ["nnD", "xnD"]
   },
   {
     "Pattern": "んE",
-    "TypePattern": [
-      "nnE",
-      "xnE"
-    ]
+    "TypePattern": ["nnE", "xnE"]
   },
   {
     "Pattern": "んF",
-    "TypePattern": [
-      "nnF",
-      "xnF"
-    ]
+    "TypePattern": ["nnF", "xnF"]
   },
   {
     "Pattern": "んG",
-    "TypePattern": [
-      "nnG",
-      "xnG"
-    ]
+    "TypePattern": ["nnG", "xnG"]
   },
   {
     "Pattern": "んH",
-    "TypePattern": [
-      "nnH",
-      "xnH"
-    ]
+    "TypePattern": ["nnH", "xnH"]
   },
   {
     "Pattern": "んI",
-    "TypePattern": [
-      "nnI",
-      "xnI"
-    ]
+    "TypePattern": ["nnI", "xnI"]
   },
   {
     "Pattern": "んJ",
-    "TypePattern": [
-      "nnJ",
-      "xnJ"
-    ]
+    "TypePattern": ["nnJ", "xnJ"]
   },
   {
     "Pattern": "んK",
-    "TypePattern": [
-      "nnK",
-      "xnK"
-    ]
+    "TypePattern": ["nnK", "xnK"]
   },
   {
     "Pattern": "んL",
-    "TypePattern": [
-      "nnL",
-      "xnL"
-    ]
+    "TypePattern": ["nnL", "xnL"]
   },
   {
     "Pattern": "んM",
-    "TypePattern": [
-      "nnM",
-      "xnM"
-    ]
+    "TypePattern": ["nnM", "xnM"]
   },
   {
     "Pattern": "んN",
-    "TypePattern": [
-      "nnN",
-      "xnN"
-    ]
+    "TypePattern": ["nnN", "xnN"]
   },
   {
     "Pattern": "んO",
-    "TypePattern": [
-      "nnO",
-      "xnO"
-    ]
+    "TypePattern": ["nnO", "xnO"]
   },
   {
     "Pattern": "んP",
-    "TypePattern": [
-      "nnP",
-      "xnP"
-    ]
+    "TypePattern": ["nnP", "xnP"]
   },
   {
     "Pattern": "んQ",
-    "TypePattern": [
-      "nnQ",
-      "xnQ"
-    ]
+    "TypePattern": ["nnQ", "xnQ"]
   },
   {
     "Pattern": "んR",
-    "TypePattern": [
-      "nnR",
-      "xnR"
-    ]
+    "TypePattern": ["nnR", "xnR"]
   },
   {
     "Pattern": "んS",
-    "TypePattern": [
-      "nnS",
-      "xnS"
-    ]
+    "TypePattern": ["nnS", "xnS"]
   },
   {
     "Pattern": "んT",
-    "TypePattern": [
-      "nnT",
-      "xnT"
-    ]
+    "TypePattern": ["nnT", "xnT"]
   },
   {
     "Pattern": "んU",
-    "TypePattern": [
-      "nnU",
-      "xnU"
-    ]
+    "TypePattern": ["nnU", "xnU"]
   },
   {
     "Pattern": "んV",
-    "TypePattern": [
-      "nnV",
-      "xnV"
-    ]
+    "TypePattern": ["nnV", "xnV"]
   },
   {
     "Pattern": "んW",
-    "TypePattern": [
-      "nnW",
-      "xnW"
-    ]
+    "TypePattern": ["nnW", "xnW"]
   },
   {
     "Pattern": "んX",
-    "TypePattern": [
-      "nnX",
-      "xnX"
-    ]
+    "TypePattern": ["nnX", "xnX"]
   },
   {
     "Pattern": "んY",
-    "TypePattern": [
-      "nnY",
-      "xnY"
-    ]
+    "TypePattern": ["nnY", "xnY"]
   },
   {
     "Pattern": "んZ",
-    "TypePattern": [
-      "nnZ",
-      "xnZ"
-    ]
+    "TypePattern": ["nnZ", "xnZ"]
   }
 ]
