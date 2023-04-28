@@ -181,7 +181,7 @@
   },
   {
     "Pattern": "ん",
-    "TypePattern": ["n", "nn", "xn"]
+    "TypePattern": ["nn", "xn"]
   },
   {
     "Pattern": "が",
@@ -1001,26 +1001,6 @@
     "TypePattern": ["wye"]
   },
   {
-    "Pattern": "んあ",
-    "TypePattern": ["nna", "xna"]
-  },
-  {
-    "Pattern": "んい",
-    "TypePattern": ["nni", "xni", "nnyi", "xnyi"]
-  },
-  {
-    "Pattern": "んう",
-    "TypePattern": ["nnu", "xnu", "nnwu", "xnwu", "nnwhu", "xnwhu"]
-  },
-  {
-    "Pattern": "んえ",
-    "TypePattern": ["nne", "xne"]
-  },
-  {
-    "Pattern": "んお",
-    "TypePattern": ["nno", "xno"]
-  },
-  {
     "Pattern": "んか",
     "TypePattern": ["nka", "nca", "nnka", "nnca", "xnka", "xnca"]
   },
@@ -1101,26 +1081,6 @@
     "TypePattern": ["nto", "nnto", "xnto"]
   },
   {
-    "Pattern": "んな",
-    "TypePattern": ["nnna", "xnna"]
-  },
-  {
-    "Pattern": "んに",
-    "TypePattern": ["nnni", "xnni"]
-  },
-  {
-    "Pattern": "んぬ",
-    "TypePattern": ["nnnu", "xnnu"]
-  },
-  {
-    "Pattern": "んね",
-    "TypePattern": ["nnne", "xnne"]
-  },
-  {
-    "Pattern": "んの",
-    "TypePattern": ["nnno", "xnno"]
-  },
-  {
     "Pattern": "んは",
     "TypePattern": ["nha", "nnha", "xnha"]
   },
@@ -1159,18 +1119,6 @@
   {
     "Pattern": "んも",
     "TypePattern": ["nmo", "nnmo", "xnmo"]
-  },
-  {
-    "Pattern": "んや",
-    "TypePattern": ["nnya", "xnya"]
-  },
-  {
-    "Pattern": "んゆ",
-    "TypePattern": ["nnyu", "xnyu"]
-  },
-  {
-    "Pattern": "んよ",
-    "TypePattern": ["nnyo", "xnyo"]
   },
   {
     "Pattern": "んら",
@@ -2450,39 +2398,6 @@
       "xndwo",
       "xndolo",
       "xndoxo"
-    ]
-  },
-  {
-    "Pattern": "んにゃ",
-    "TypePattern": [
-      "nnnya",
-      "xnnya",
-      "nnnixya",
-      "xnnixya",
-      "nnnilya",
-      "xnnilya"
-    ]
-  },
-  {
-    "Pattern": "んにゅ",
-    "TypePattern": [
-      "nnnyu",
-      "xnnyu",
-      "nnnixyu",
-      "xnnixyu",
-      "nnnilyu",
-      "xnnilyu"
-    ]
-  },
-  {
-    "Pattern": "んにょ",
-    "TypePattern": [
-      "nnnyo",
-      "xnnyo",
-      "nnnixyo",
-      "xnnixyo",
-      "nnnilyo",
-      "xnnilyo"
     ]
   },
   {
