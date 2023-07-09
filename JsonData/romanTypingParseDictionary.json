@@ -993,6 +993,38 @@
     "TypePattern": ["vyo", "vulyo", "vuxyo"]
   },
   {
+    "Pattern": "ヴぁ",
+    "TypePattern": ["va", "vula", "vuxa"]
+  },
+  {
+    "Pattern": "ヴぃ",
+    "TypePattern": ["vi", "vyi", "vuli", "vuxi", "vulyi", "vuxyi"]
+  },
+  {
+    "Pattern": "ヴ",
+    "TypePattern": ["vu"]
+  },
+  {
+    "Pattern": "ヴぇ",
+    "TypePattern": ["ve", "vye", "vule", "vuxe", "vulye", "vuxye"]
+  },
+  {
+    "Pattern": "ヴぉ",
+    "TypePattern": ["vo", "vulo", "vuxo"]
+  },
+  {
+    "Pattern": "ヴゃ",
+    "TypePattern": ["vya", "vulya", "vuxya"]
+  },
+  {
+    "Pattern": "ヴゅ",
+    "TypePattern": ["vyu", "vulyu", "vuxyu"]
+  },
+  {
+    "Pattern": "ヴょ",
+    "TypePattern": ["vyo", "vulyo", "vuxyo"]
+  },
+  {
     "Pattern": "ゐ",
     "TypePattern": ["wyi"]
   },
@@ -3225,6 +3257,126 @@
   },
   {
     "Pattern": "んゔょ",
+    "TypePattern": [
+      "nvyo",
+      "nvulyo",
+      "nvuxyo",
+      "nnvyo",
+      "nnvulyo",
+      "nnvuxyo",
+      "xnvyo",
+      "xnvulyo",
+      "xnvuxyo"
+    ]
+  },
+  {
+    "Pattern": "んヴぁ",
+    "TypePattern": [
+      "nva",
+      "nvula",
+      "nvuxa",
+      "nnva",
+      "nnvula",
+      "nnvuxa",
+      "xnva",
+      "xnvula",
+      "xnvuxa"
+    ]
+  },
+  {
+    "Pattern": "んヴぃ",
+    "TypePattern": [
+      "nvi",
+      "nvyi",
+      "nvuli",
+      "nvuxi",
+      "nvulyi",
+      "nvuxyi",
+      "nnvi",
+      "nnvyi",
+      "nnvuli",
+      "nnvuxi",
+      "nnvulyi",
+      "nnvuxyi",
+      "xnvi",
+      "xnvyi",
+      "xnvuli",
+      "xnvuxi",
+      "xnvulyi",
+      "xnvuxyi"
+    ]
+  },
+  {
+    "Pattern": "んヴ",
+    "TypePattern": ["nvu", "nnvu", "xnvu"]
+  },
+  {
+    "Pattern": "んヴぇ",
+    "TypePattern": [
+      "nve",
+      "nvye",
+      "nvule",
+      "nvuxe",
+      "nvulye",
+      "nvuxye",
+      "nnve",
+      "nnvye",
+      "nnvule",
+      "nnvuxe",
+      "nnvulye",
+      "nnvuxye",
+      "xnve",
+      "xnvye",
+      "xnvule",
+      "xnvuxe",
+      "xnvulye",
+      "xnvuxye"
+    ]
+  },
+  {
+    "Pattern": "んヴぉ",
+    "TypePattern": [
+      "nvo",
+      "nvulo",
+      "nvuxo",
+      "nnvo",
+      "nnvulo",
+      "nnvuxo",
+      "xnvo",
+      "xnvulo",
+      "xnvuxo"
+    ]
+  },
+  {
+    "Pattern": "んヴゃ",
+    "TypePattern": [
+      "nvya",
+      "nvulya",
+      "nvuxya",
+      "nnvya",
+      "nnvulya",
+      "nnvuxya",
+      "xnvya",
+      "xnvulya",
+      "xnvuxya"
+    ]
+  },
+  {
+    "Pattern": "んヴゅ",
+    "TypePattern": [
+      "nvyu",
+      "nvulyu",
+      "nvuxyu",
+      "nnvyu",
+      "nnvulyu",
+      "nnvuxyu",
+      "xnvyu",
+      "xnvulyu",
+      "xnvuxyu"
+    ]
+  },
+  {
+    "Pattern": "んヴょ",
     "TypePattern": [
       "nvyo",
       "nvulyo",
