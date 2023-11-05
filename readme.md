@@ -142,9 +142,7 @@ $ dotnet test
 ## 参考
 
 わたしが書いた Qiita 記事を参照してください。
-
-- 新版（推奨）：[ローマ字日本語入力タイピングゲーム製作の一番めんどくさい「複数入力判定」を助ける](https://qiita.com/Arthur_Lugh/items/8c7f32810dd330398b3d)
-- アドカレ版：[タイピングガチ勢が本格的タイピングゲーム（ローマ字入力）を実装してみた](https://qiita.com/Arthur_Lugh/items/43b61877819e402c50d6)
+[タイピングガチ勢が本格的タイピングゲーム（ローマ字入力）を実装してみた](https://qiita.com/Arthur_Lugh/items/43b61877819e402c50d6)
 
 ## ライセンス
 
